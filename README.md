@@ -16,3 +16,7 @@ uvicorn main:app --reload
 3.開啟右上角「開發人員模式」
 
 4.點選「載入已解壓縮的擴充功能」，選擇 extension/ 資料夾
+
+### 範例
+![Uploading image.png…]()
+
