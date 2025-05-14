@@ -1,9 +1,0 @@
-[2025-05-14 23:18:37] https://hello.com/ -> PHISHING
-[2025-05-14 23:22:13] https://hello.com/ -> SAFE
-[2025-05-14 23:22:16] https://chatgpt.com/ -> SAFE
-[2025-05-14 23:23:35] https://missav.ai/dm45 -> PHISHING
-[2025-05-14 23:25:21] https://www.hello.ai/en -> PHISHING
-[2025-05-14 23:25:38] https://www.hello.ai/en -> PHISHING
-[2025-05-14 23:31:24] https://ntnu.work.gd/ -> PHISHING
-[2025-05-14 23:33:38] https://oraclelee.com/ -> SAFE
-[2025-05-14 23:34:13] https://oraclelee.com/room/3026 -> SAFE
