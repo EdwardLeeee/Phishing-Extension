@@ -7,6 +7,7 @@ source venv/bin/activate         # Linux/macOS
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
+
 ### 插鍵
 1.打開 Chrome 瀏覽器
 
