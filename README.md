@@ -18,5 +18,6 @@ uvicorn main:app --reload
 4.點選「載入已解壓縮的擴充功能」，選擇 extension/ 資料夾
 
 ### 範例
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/e3928645-d68b-4468-8ee0-060759317092)
+
 
