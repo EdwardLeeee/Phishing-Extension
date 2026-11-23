@@ -1,1 +1,8 @@
 logs.txt
+.env
+# URLs the back end has checked (local browsing log)
+urls.txt
+# Kaggle dataset, download it yourself (see README)
+test.csv
+venv/
+__pycache__/
